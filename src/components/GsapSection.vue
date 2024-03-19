@@ -3,13 +3,13 @@
         <router-link to="/helloworld">Go to home</router-link>
         <section class="screen section1">
             <div class="kv-content">
-                <img src="../assets/kv.webp" alt="" />
+                <img src="../assets/images/kv.webp" alt="" />
             </div>
         </section>
 
         <section class="screen section2">
             <div class="summary-content">
-                <video src="../media/summary.mp4" class="summary"></video>
+                <video src="../assets/videos/summary.mp4" class="summary"></video>
                 <p class="text1">
                     流动山海纹 <br />
                     光影层叠，山海流淌
@@ -22,10 +22,10 @@
 
         <section class="screen section3">
             <div class="color-img">
-                <img src="../assets/color1.webp" alt="" class="color1" />
-                <img src="../assets/color2.webp" alt="" class="color2" />
-                <img src="../assets/color3.webp" alt="" class="color3" />
-                <img src="../assets/color4.webp" alt="" class="color4" />
+                <img src="../assets/images/color1.webp" alt="" class="color1" />
+                <img src="../assets/images/color2.webp" alt="" class="color2" />
+                <img src="../assets/images/color3.webp" alt="" class="color3" />
+                <img src="../assets/images/color4.webp" alt="" class="color4" />
             </div>
         </section>
 
@@ -33,7 +33,7 @@
             <div class="parallel">
                 <div class="page1">
                     <p class="title">美学创作大师</p>
-                    <video src="../media/aesthetics1.mp4" class="video1" muted></video>
+                    <video src="../assets/videos/aesthetics1.mp4" class="video1" muted></video>
                     <div class="info">
                         重塑每一秒 <br />
                         自在享受视频拍摄吧！<br />
@@ -42,7 +42,7 @@
                     </div>
                 </div>
                 <div class="page2">
-                    <video src="../media/aesthetics2.mp4" class="video2" muted></video>
+                    <video src="../assets/videos/aesthetics2.mp4" class="video2" muted></video>
                     <div class="info">
                         <h4>放手去拍，自动成片</h4>
                         <p>Vlog 拍摄配套电影级滤镜，实时更新，免费</p>
@@ -54,13 +54,13 @@
             <div class="rom-content">
                 <div class="rom-txt">512GB</div>
                 <div class="rom-img">
-                    <img src="../assets/rom1.webp" alt="" class="pic1" />
-                    <img src="../assets/rom2.webp" alt="" class="pic2" />
-                    <img src="../assets/rom3.webp" alt="" class="pic3" />
-                    <img src="../assets/rom4.webp" alt="" class="pic4" />
-                    <img src="../assets/rom5.webp" alt="" class="pic5" />
-                    <img src="../assets/rom6.webp" alt="" class="pic6" />
-                    <img src="../assets/rom7.webp" alt="" class="pic7" />
+                    <img src="../assets/images/rom1.webp" alt="" class="pic1" />
+                    <img src="../assets/images/rom2.webp" alt="" class="pic2" />
+                    <img src="../assets/images/rom3.webp" alt="" class="pic3" />
+                    <img src="../assets/images/rom4.webp" alt="" class="pic4" />
+                    <img src="../assets/images/rom5.webp" alt="" class="pic5" />
+                    <img src="../assets/images/rom6.webp" alt="" class="pic6" />
+                    <img src="../assets/images/rom7.webp" alt="" class="pic7" />
                 </div>
             </div>
         </section>
